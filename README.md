@@ -1,8 +1,8 @@
 # react-dropdown-ts
 
-## How to use it?
-
 This package provides a customizable dropdown component for React applications. Below are the steps to install and use the `Dropdown` component in your React project.
+
+## How to use it?
 
 ### Install
 
