@@ -26,6 +26,22 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahmanC/react-dropdown-ts.git"
+  },
+  "keywords": [
+    "react",
+    "react-dropdown-ts",
+    "click outside",
+    "dropdown"
+  ],
+  "author": "Abdulrahman Olalekan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahmanC/react-dropdown-ts/issues"
+  },
+  "homepage": "https://github.com/RahmanC/react-dropdown-ts#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
